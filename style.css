@@ -1,0 +1,42 @@
+@charset "UTF-8";
+body div p {
+}
+.container {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+header h1 {
+    color: #7A0AEE;
+    text-align: center;
+    font-size: 32px;
+}
+.heroimg {
+    height: 250px;
+    background-image: url(assets/20210121110950_%E4%BA%BA%E6%96%87%E5%A4%A7%E6%A8%93%E6%8B%B7%E8%B2%9D.jpg);
+    background-position: 0px -515px;
+    border-radius: 60px;
+}
+nav {
+    text-align: center;
+    background-position: 0% 64px;
+}
+nav a:link {
+    color: #F4A2DA;
+    text-decoration: none;
+}
+nav a:visited {
+    text-shadow: 0px 0px #F22023;
+    color: #F20070;
+}
+nav a:hover  {
+    color: #FD5AAB;
+    text-decoration: overline;
+}
+article h2 {
+    color: #FFFFFF;
+    background-color: #FFB3B4;
+    border-radius: 6px;
+    height: 35px;
+    line-height: 35px;
+}
